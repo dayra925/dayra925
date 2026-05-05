@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+    <header>
+        <h1>Colegio Tecnico Moderno</h1>
+        <p>Formando Profesionales del Futuro</p>
+    </header>
+    <nav> 
+    <ul>
+        <li><a href="#">Inicio</a></li>
+        <li><a href="#nosotros">Nosotros</a></li>
+        <li><a href="#carreras">Carreras</a></li>
+        <li><a href="#noticias">Noticias</a></li>
+        <li><a href="#contacto">Contacto</a></li>
+    </ul>
+    </nav>
+    <main>
+        <section class="inicio">
+            <h1>Educacion tecnica de calidad</h1>
+            <p>Programas especializados con enfoque practico e innovador.</p>
+             <a href="#contacto" class="btn">Contactanos</a>
+        </section>
+        <section id="nosotros">
+            <h2>Sobre Nosotros</h2>
+            <div class="nosotros-grib">
+                <div>
+                    <h3>Mision</h3>
+                    <p>Formar profecionales tecnicos altamente capacitados mediante programas educativos e innovadores,
+                        con enfoque practico y orientacion al desarrollo tecologico.</p>
+                </div>
+                <div>
+                    <h3>Vision</h3>
+                    <p>Ser una intitucion lider en regulacion tecnica reconocida por su exelenciia academica y 
+                        la insercion laboral exitosa de sus engresados.</p>
+                </div>
+                <div>
+                    <h3>Valores</h3>
+                    <p>Responsabilidas,Innovacion,Trabajo en equipo,Etica profesional y Compromiso social.</p>
+                </div>
+             </div>
+        <section id="carreras"> 
+            <h2>Nuestras Carreras Tecnicas</h2>
+            <div class="carreras">
+                <div class="tarjeta">
+                    <img src=" "alt=" ">
+                    <div class="tarjeta-contenido">
+                        <h3>Electricidad</h3>
+                        <p>La carrera de electricidad forma profesionales capacitados en el diseño,
+                        instalacion y mantenimiento de sistemas electricos residenciales,comerciales e industriales.
+                        Los estudiantes aprenden interpretacion de planos eletricos,calculo de cargas,proteccion de circuitos
+                        y normas de seguridad vigentes.</p>
+                        <p>La formacion incluye practicas en laboratorio con tableros electricos,cableado estructurado y sistemas de automatizacion basica,
+                            garantizando una preparacion solida para el campo laboral.</p>
+                        <p>Campo laboral:empresas de energia,construccion,mantenimiento industrial y mantenimiento propio.</p>
+                    </div>
+                </div>
+                <div class="tarjeta">
+                    <img src=" "alt=" ">
+                    <div class="tarjeta-contenido">
+                        <h3>Electronica</h3>
+                        <p>La especialidad en electronica prepara tecnicos en el analisis, diseño y reparacion de sistemas electronicos, microcontroladores
+                            y automatizacion basica.</p>
+                        <p>Atravez de proyectos practicos y experiencas en laboratorio,desarrollan habilidades para del diagnostico y solucion de fallos
+                            preparandose para areas como telecomunicaciones, automatizacion industrial y soporte tecnico especializado.</p>
+                        <p>Campo laboral:soporte tecnico telecomunicaciones , automatizacion industrial y desarrollo de dispositivos.</p>
+                    </div>
+                </div>
+                <div class="tarjeta">
+                    <img src=" "alt=" ">
+                    <div class="tarjeta-contenido">
+                        <h3>Refrigeracion y Aire Acondicionado</h3>
+                        <p>Formacion en instalacion, mantenimiento y reparacion de refigeracion domestica e industrial.Los estudiantes dominan
+                           el manejo de gases refrigerantes,diagnostico de falla y control termico</p>
+                        <p>Campo laboral:empresas de climatizacion , industria alimentaria, servicio tecnicos especializados y negocio propio.</p>
+                    </div>
+                </div>
+                <div class="tarjeta">
+                    <img src=" "alt=" ">
+                    <div class="tarjeta-contenido">
+                        <h3>Informatica</h3>
+                        <p>Desarrollo de competencia en programacion , soporte tecnico, redes informaticas y mantenimiento de equipo.Se trabaja en diseño de software basico,
+                            bases de datos y sistemas operativos.</p>
+                        <p>Campo laboral:soporte TI, desarrollo web, administracion de redes y asistencia tecnica en empresas</p>
+                    </div>
+                </div>
+                <div class="tarjeta">
+                    <img src=" "alt=" ">
+                    <div class="tarjeta-contenido">
+                        <h3>Informatica Con Orientacion En Robotica</h3>
+                        <p>Especializacion en programacion aplicada a la robotica, automatizacion y sistema inteligentes ,los estudientes diseñan y programan robots educativos
+                           utilizando sensores , motores y microcontroladores.</p>
+                        <p>Campo laboral:automatizacion industrial, desarrollo tecnologico , robotica educativa y proyectos de Innovacion</p>
+                    </div>
+                </div>
+            </div>
+
+        </section>
+        <section>
+
+        </section>
+        <section>
+
+        </section>
+        <section>
+            <div>
+                (+504)2774-4047|Itrpp@edu.hn
+
+            </div>
+            <div>
+                <a href="#">Facebook</a>
+                <a href="#">Twitter</a>
+                <a href="#">Instagram</a>
+
+            </div>
+        </section>
+
+
+
+    </main>
+    <footer>
+        &copy;2026.Instituto Tecnico Rafael Pineda Ponce|Todos los Derechos Reservados
+    </footer>
+    
+    
+</body>
+</html>
